@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build & output
+bin/
+obj/
+out/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+.env
